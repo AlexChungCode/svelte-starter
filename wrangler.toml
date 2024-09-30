@@ -6,3 +6,4 @@ pages_build_output_dir = ".svelte-kit/cloudflare"
 binding = "DATABASE"
 database_name = "svelte-starter-db"
 database_id = "a6d7320a-0b73-4c0f-9043-17ea699a0484"
+
